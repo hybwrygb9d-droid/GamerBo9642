@@ -1,0 +1,1136 @@
+{
+  "game": "Skibi Defense",
+  "placeId": "14279693118",
+  "checkedAt": "2026-11-16T20:07:32.165374+00:00",
+  "sources": [
+    {
+      "url": "https://rowikis.com/skibi-defense/towers/",
+      "title": "Skibi Defense tower reference"
+    }
+  ],
+  "items": [
+    {
+      "name": "Chronolord Large Clockman",
+      "source": "https://rowikis.com/skibi-defense/towers/chronolord-large-clockman/"
+    },
+    {
+      "name": "X18 G-toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/x18-g-toilet/"
+    },
+    {
+      "name": "Classic Cameraman",
+      "source": "https://rowikis.com/skibi-defense/towers/classic-cameraman/"
+    },
+    {
+      "name": "Hunter Camerawoman",
+      "source": "https://rowikis.com/skibi-defense/towers/hunter-camerawoman/"
+    },
+    {
+      "name": "Control Speakergirl",
+      "source": "https://rowikis.com/skibi-defense/towers/control-speakergirl/"
+    },
+    {
+      "name": "Bomb Speakergirl",
+      "source": "https://rowikis.com/skibi-defense/towers/bomb-speakergirl/"
+    },
+    {
+      "name": "Conquest",
+      "source": "https://rowikis.com/skibi-defense/towers/conquest/"
+    },
+    {
+      "name": "Uncrackable",
+      "source": "https://rowikis.com/skibi-defense/towers/uncrackable/"
+    },
+    {
+      "name": "Upgraded Silver Camera Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-silver-camera-girl/"
+    },
+    {
+      "name": "Colossal Silver Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-silver-guy/"
+    },
+    {
+      "name": "Upgraded Silver Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-silver-cameraguy/"
+    },
+    {
+      "name": "Silver Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/silver-cameraguy/"
+    },
+    {
+      "name": "Upgraded Colossal Cameraguy: Prime",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-colossal-cameraguy-prime/"
+    },
+    {
+      "name": "Ultimate CameraGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/ultimate-cameraguy/"
+    },
+    {
+      "name": "AURORA",
+      "source": "https://rowikis.com/skibi-defense/towers/aurora/"
+    },
+    {
+      "name": "Damaged Camera Colossal",
+      "source": "https://rowikis.com/skibi-defense/towers/damaged-camera-colossal/"
+    },
+    {
+      "name": "Upgraded Camera Colossal",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-camera-colossal/"
+    },
+    {
+      "name": "Chief Scientist Cameraman",
+      "source": "https://rowikis.com/skibi-defense/towers/chief-scientist-cameraman/"
+    },
+    {
+      "name": "Plunger Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/plunger-girl/"
+    },
+    {
+      "name": "Upgraded Camera Helicopter",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-camera-helicopter/"
+    },
+    {
+      "name": "Orbital Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/orbital-camera/"
+    },
+    {
+      "name": "Detective",
+      "source": "https://rowikis.com/skibi-defense/towers/detective/"
+    },
+    {
+      "name": "Ch4D Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/ch4d-camera/"
+    },
+    {
+      "name": "Upgraded Camera Strider",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-camera-strider/"
+    },
+    {
+      "name": "Fred",
+      "source": "https://rowikis.com/skibi-defense/towers/fred/"
+    },
+    {
+      "name": "Frank",
+      "source": "https://rowikis.com/skibi-defense/towers/frank/"
+    },
+    {
+      "name": "Colossal Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-cameraguy/"
+    },
+    {
+      "name": "Laser Car Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/laser-car-camera/"
+    },
+    {
+      "name": "Glitch Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/glitch-cameraguy/"
+    },
+    {
+      "name": "Camera Helicopter",
+      "source": "https://rowikis.com/skibi-defense/towers/camera-helicopter/"
+    },
+    {
+      "name": "FlameThrower CameraGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/flamethrower-cameraguy/"
+    },
+    {
+      "name": "High Tech Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/high-tech-camera/"
+    },
+    {
+      "name": "Medic CameraGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/medic-cameraguy/"
+    },
+    {
+      "name": "Upgraded Large Laser Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-large-laser-camera/"
+    },
+    {
+      "name": "Astro Upgraded CameraGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/astro-upgraded-cameraguy/"
+    },
+    {
+      "name": "Camera General",
+      "source": "https://rowikis.com/skibi-defense/towers/camera-general/"
+    },
+    {
+      "name": "Mech Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/mech-camera/"
+    },
+    {
+      "name": "Shotgun CameraGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/shotgun-cameraguy/"
+    },
+    {
+      "name": "Engineer Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/engineer-camera/"
+    },
+    {
+      "name": "Plunger Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/plunger-camera/"
+    },
+    {
+      "name": "Camera Strider",
+      "source": "https://rowikis.com/skibi-defense/towers/camera-strider/"
+    },
+    {
+      "name": "Dancing Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/dancing-camera/"
+    },
+    {
+      "name": "Camera Sniper Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/camera-sniper-girl/"
+    },
+    {
+      "name": "Researcher Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/researcher-camera/"
+    },
+    {
+      "name": "Large Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/large-camera/"
+    },
+    {
+      "name": "Camera Fighter",
+      "source": "https://rowikis.com/skibi-defense/towers/camera-fighter/"
+    },
+    {
+      "name": "Astro Upgraded Speaker Colossal",
+      "source": "https://rowikis.com/skibi-defense/towers/astro-upgraded-speaker-colossal/"
+    },
+    {
+      "name": "Upgraded Speaker Mech",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-speaker-mech/"
+    },
+    {
+      "name": "Upgraded Speaker Carrier",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-speaker-carrier/"
+    },
+    {
+      "name": "THE Executor",
+      "source": "https://rowikis.com/skibi-defense/towers/the-executor/"
+    },
+    {
+      "name": "Ultimate Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/ultimate-speakerguy/"
+    },
+    {
+      "name": "Regenerative Speaker Ship",
+      "source": "https://rowikis.com/skibi-defense/towers/regenerative-speaker-ship/"
+    },
+    {
+      "name": "Upgraded Speaker Strider",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-speaker-strider/"
+    },
+    {
+      "name": "Overcharged Colossal SpeakerGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/overcharged-colossal-speakerguy/"
+    },
+    {
+      "name": "Upgraded Colossal SpeakerGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-colossal-speakerguy/"
+    },
+    {
+      "name": "Lightsaber SpeakerGirl",
+      "source": "https://rowikis.com/skibi-defense/towers/lightsaber-speakergirl/"
+    },
+    {
+      "name": "Upgraded Large SpeakerGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-large-speakerguy/"
+    },
+    {
+      "name": "Pablo",
+      "source": "https://rowikis.com/skibi-defense/towers/pablo/"
+    },
+    {
+      "name": "Brute SpeakerGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/brute-speakerguy/"
+    },
+    {
+      "name": "Bladerunner SpeakerGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/bladerunner-speakerguy/"
+    },
+    {
+      "name": "Colossal SpeakerGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-speakerguy/"
+    },
+    {
+      "name": "Alliance DJ",
+      "source": "https://rowikis.com/skibi-defense/towers/alliance-dj/"
+    },
+    {
+      "name": "Dark SpeakerGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/dark-speakerguy/"
+    },
+    {
+      "name": "Speaker Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/speaker-girl/"
+    },
+    {
+      "name": "Speaker Strider",
+      "source": "https://rowikis.com/skibi-defense/towers/speaker-strider/"
+    },
+    {
+      "name": "Speaker Helicopter",
+      "source": "https://rowikis.com/skibi-defense/towers/speaker-helicopter/"
+    },
+    {
+      "name": "Large SpeakerGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/large-speakerguy/"
+    },
+    {
+      "name": "Speaker Fighter",
+      "source": "https://rowikis.com/skibi-defense/towers/speaker-fighter/"
+    },
+    {
+      "name": "REAL Semi Colossal SpeakerGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/real-semi-colossal-speakerguy/"
+    },
+    {
+      "name": "JEFFREY, ENVOY OF THE VOID",
+      "source": "https://rowikis.com/skibi-defense/towers/jeffrey-envoy-of-the-void/"
+    },
+    {
+      "name": "Upgraded Colossal Tv Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-colossal-tv-guy/"
+    },
+    {
+      "name": "Ultimate TV Duo",
+      "source": "https://rowikis.com/skibi-defense/towers/ultimate-tv-duo/"
+    },
+    {
+      "name": "Scientist Tv Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/scientist-tv-guy/"
+    },
+    {
+      "name": "Astro Polycephaly",
+      "source": "https://rowikis.com/skibi-defense/towers/astro-polycephaly/"
+    },
+    {
+      "name": "Scarf Tv Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/scarf-tv-guy/"
+    },
+    {
+      "name": "Larry Tv",
+      "source": "https://rowikis.com/skibi-defense/towers/larry-tv/"
+    },
+    {
+      "name": "Colossal Tv guy",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-tv-guy/"
+    },
+    {
+      "name": "Energized Tv Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/energized-tv-guy/"
+    },
+    {
+      "name": "Upgraded Tv Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-tv-guy/"
+    },
+    {
+      "name": "Polycephaly",
+      "source": "https://rowikis.com/skibi-defense/towers/polycephaly/"
+    },
+    {
+      "name": "TV-Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/tv-girl/"
+    },
+    {
+      "name": "TV-Person",
+      "source": "https://rowikis.com/skibi-defense/towers/tv-person/"
+    },
+    {
+      "name": "Upgraded Titan Drill Man",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-titan-drill-man/"
+    },
+    {
+      "name": "Colossal Drillguy",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-drillguy/"
+    },
+    {
+      "name": "Ultimate Drill",
+      "source": "https://rowikis.com/skibi-defense/towers/ultimate-drill/"
+    },
+    {
+      "name": "Assasin Drillguy",
+      "source": "https://rowikis.com/skibi-defense/towers/assasin-drillguy/"
+    },
+    {
+      "name": "Chief Drillguy",
+      "source": "https://rowikis.com/skibi-defense/towers/chief-drillguy/"
+    },
+    {
+      "name": "Drillgirl",
+      "source": "https://rowikis.com/skibi-defense/towers/drillgirl/"
+    },
+    {
+      "name": "Drillguy",
+      "source": "https://rowikis.com/skibi-defense/towers/drillguy/"
+    },
+    {
+      "name": "UTCLM",
+      "source": "https://rowikis.com/skibi-defense/towers/utclm/"
+    },
+    {
+      "name": "Ultimate Clock",
+      "source": "https://rowikis.com/skibi-defense/towers/ultimate-clock/"
+    },
+    {
+      "name": "Mini Upgraded Colossal Clockman",
+      "source": "https://rowikis.com/skibi-defense/towers/mini-upgraded-colossal-clockman/"
+    },
+    {
+      "name": "Future Large Clockman",
+      "source": "https://rowikis.com/skibi-defense/towers/future-large-clockman/"
+    },
+    {
+      "name": "Timer Clockman",
+      "source": "https://rowikis.com/skibi-defense/towers/timer-clockman/"
+    },
+    {
+      "name": "Colossal Clockman",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-clockman/"
+    },
+    {
+      "name": "Scientist Clockman",
+      "source": "https://rowikis.com/skibi-defense/towers/scientist-clockman/"
+    },
+    {
+      "name": "Guardian Clockman",
+      "source": "https://rowikis.com/skibi-defense/towers/guardian-clockman/"
+    },
+    {
+      "name": "Large Clockman",
+      "source": "https://rowikis.com/skibi-defense/towers/large-clockman/"
+    },
+    {
+      "name": "Clock Helicopter",
+      "source": "https://rowikis.com/skibi-defense/towers/clock-helicopter/"
+    },
+    {
+      "name": "General Clockman",
+      "source": "https://rowikis.com/skibi-defense/towers/general-clockman/"
+    },
+    {
+      "name": "Clock Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/clock-girl/"
+    },
+    {
+      "name": "COLOSSAL CLOCKMAN",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-clockman-2/"
+    },
+    {
+      "name": "Upgraded Titan Pencil Woman",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-titan-pencil-woman/"
+    },
+    {
+      "name": "Colossal Pencilgirl",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-pencilgirl/"
+    },
+    {
+      "name": "Ultimate Pencil",
+      "source": "https://rowikis.com/skibi-defense/towers/ultimate-pencil/"
+    },
+    {
+      "name": "Chief Pencilguy",
+      "source": "https://rowikis.com/skibi-defense/towers/chief-pencilguy/"
+    },
+    {
+      "name": "C-Pen",
+      "source": "https://rowikis.com/skibi-defense/towers/c-pen/"
+    },
+    {
+      "name": "Large Hammer Pencilguy",
+      "source": "https://rowikis.com/skibi-defense/towers/large-hammer-pencilguy/"
+    },
+    {
+      "name": "Pencil Helicopter",
+      "source": "https://rowikis.com/skibi-defense/towers/pencil-helicopter/"
+    },
+    {
+      "name": "Pencilguy",
+      "source": "https://rowikis.com/skibi-defense/towers/pencilguy/"
+    },
+    {
+      "name": "GMAN 5.0",
+      "source": "https://rowikis.com/skibi-defense/towers/gman-5-0/"
+    },
+    {
+      "name": "G Toilet 4.0",
+      "source": "https://rowikis.com/skibi-defense/towers/g-toilet-4-0/"
+    },
+    {
+      "name": "Semi Titan Mafia (Scarface)",
+      "source": "https://rowikis.com/skibi-defense/towers/semi-titan-mafia-scarface/"
+    },
+    {
+      "name": "Upgraded DJ toilet Mech",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-dj-toilet-mech/"
+    },
+    {
+      "name": "Apprentice Scientist Toilet (Kleiner)",
+      "source": "https://rowikis.com/skibi-defense/towers/apprentice-scientist-toilet-kleiner/"
+    },
+    {
+      "name": "DJ Toilet 3.0",
+      "source": "https://rowikis.com/skibi-defense/towers/dj-toilet-3-0/"
+    },
+    {
+      "name": "Colossal TV Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-tv-toilet/"
+    },
+    {
+      "name": "MJ Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/mj-toilet/"
+    },
+    {
+      "name": "Colossal Speaker Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-speaker-toilet/"
+    },
+    {
+      "name": "Large Buff Mutant Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/large-buff-mutant-toilet/"
+    },
+    {
+      "name": "Colossal Camera Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-camera-toilet/"
+    },
+    {
+      "name": "G toilet 3.0",
+      "source": "https://rowikis.com/skibi-defense/towers/g-toilet-3-0/"
+    },
+    {
+      "name": "Cat Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/cat-toilet/"
+    },
+    {
+      "name": "Buzzsaw Mutant Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/buzzsaw-mutant-toilet/"
+    },
+    {
+      "name": "SWAT Mutant Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/swat-mutant-toilet/"
+    },
+    {
+      "name": "Female Mutant Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/female-mutant-toilet/"
+    },
+    {
+      "name": "Mafia toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/mafia-toilet/"
+    },
+    {
+      "name": "Chill Pal Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/chill-pal-toilet/"
+    },
+    {
+      "name": "Normal Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/normal-toilet/"
+    },
+    {
+      "name": "The Juggernaut",
+      "source": "https://rowikis.com/skibi-defense/towers/the-juggernaut/"
+    },
+    {
+      "name": "THE WATCHMAN",
+      "source": "https://rowikis.com/skibi-defense/towers/the-watchman/"
+    },
+    {
+      "name": "Mini Astro Juggernaut",
+      "source": "https://rowikis.com/skibi-defense/towers/mini-astro-juggernaut/"
+    },
+    {
+      "name": "Space Detainer",
+      "source": "https://rowikis.com/skibi-defense/towers/space-detainer/"
+    },
+    {
+      "name": "Space UFO Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/space-ufo-toilet/"
+    },
+    {
+      "name": "VERITY",
+      "source": "https://rowikis.com/skibi-defense/towers/verity/"
+    },
+    {
+      "name": "Triple Baka",
+      "source": "https://rowikis.com/skibi-defense/towers/triple-baka/"
+    },
+    {
+      "name": "El Hando",
+      "source": "https://rowikis.com/skibi-defense/towers/el-hando/"
+    },
+    {
+      "name": "The Strongest Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/the-strongest-camera/"
+    },
+    {
+      "name": "The Mini Creator",
+      "source": "https://rowikis.com/skibi-defense/towers/the-mini-creator/"
+    },
+    {
+      "name": "Mini Six Lens",
+      "source": "https://rowikis.com/skibi-defense/towers/mini-six-lens/"
+    },
+    {
+      "name": "Mini Second",
+      "source": "https://rowikis.com/skibi-defense/towers/mini-second/"
+    },
+    {
+      "name": "Secret Agent",
+      "source": "https://rowikis.com/skibi-defense/towers/secret-agent/"
+    },
+    {
+      "name": "Chair Phase One",
+      "source": "https://rowikis.com/skibi-defense/towers/chair-phase-one/"
+    },
+    {
+      "name": "The Administrator",
+      "source": "https://rowikis.com/skibi-defense/towers/the-administrator/"
+    },
+    {
+      "name": "05 TVGuy",
+      "source": "https://rowikis.com/skibi-defense/towers/05-tvguy/"
+    },
+    {
+      "name": "KJ Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/kj-camera/"
+    },
+    {
+      "name": "Master of hands",
+      "source": "https://rowikis.com/skibi-defense/towers/master-of-hands/"
+    },
+    {
+      "name": "Rat Toilet Placeholder",
+      "source": "https://rowikis.com/skibi-defense/towers/rat-toilet-placeholder/"
+    },
+    {
+      "name": "Saul Cube",
+      "source": "https://rowikis.com/skibi-defense/towers/saul-cube/"
+    },
+    {
+      "name": "THE AWAKENED CREATOR",
+      "source": "https://rowikis.com/skibi-defense/towers/the-awakened-creator/"
+    },
+    {
+      "name": "THE CREATOR",
+      "source": "https://rowikis.com/skibi-defense/towers/the-creator/"
+    },
+    {
+      "name": "SECOND In Command",
+      "source": "https://rowikis.com/skibi-defense/towers/second-in-command/"
+    },
+    {
+      "name": "Corrupted WOD",
+      "source": "https://rowikis.com/skibi-defense/towers/corrupted-wod/"
+    },
+    {
+      "name": "Corrupted dancing",
+      "source": "https://rowikis.com/skibi-defense/towers/corrupted-dancing/"
+    },
+    {
+      "name": "Corrupted g v4",
+      "source": "https://rowikis.com/skibi-defense/towers/corrupted-g-v4/"
+    },
+    {
+      "name": "Elite Mercenary Large Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/elite-mercenary-large-camera/"
+    },
+    {
+      "name": "Mysterious Blud",
+      "source": "https://rowikis.com/skibi-defense/towers/mysterious-blud/"
+    },
+    {
+      "name": "THE CORRUPTED JUGGERNAUT",
+      "source": "https://rowikis.com/skibi-defense/towers/the-corrupted-juggernaut/"
+    },
+    {
+      "name": "Corrupted Upgraded Colossal TV Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/corrupted-upgraded-colossal-tv-guy/"
+    },
+    {
+      "name": "Corrupted Upgraded Colossal Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/corrupted-upgraded-colossal-cameraguy/"
+    },
+    {
+      "name": "Corrupted Upgraded Colossal Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/corrupted-upgraded-colossal-speakerguy/"
+    },
+    {
+      "name": "Corrupted G-Toilet 3.0",
+      "source": "https://rowikis.com/skibi-defense/towers/corrupted-g-toilet-3-0/"
+    },
+    {
+      "name": "Corrupted Dark Speakerman",
+      "source": "https://rowikis.com/skibi-defense/towers/corrupted-dark-speakerman/"
+    },
+    {
+      "name": "Corrupted Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/corrupted-toilet/"
+    },
+    {
+      "name": "Mini Corrupted Colossal Speaker Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/mini-corrupted-colossal-speaker-guy/"
+    },
+    {
+      "name": "Mini Corrupted Upgraded Colossal Camera Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/mini-corrupted-upgraded-colossal-camera-guy/"
+    },
+    {
+      "name": "Mini Corrupted Upgraded Colossal TV Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/mini-corrupted-upgraded-colossal-tv-guy/"
+    },
+    {
+      "name": "Armada Cube",
+      "source": "https://rowikis.com/skibi-defense/towers/armada-cube/"
+    },
+    {
+      "name": "Mr gold",
+      "source": "https://rowikis.com/skibi-defense/towers/mr-gold/"
+    },
+    {
+      "name": "Upgraded Mr gold (REPLACED)",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-mr-gold-replaced/"
+    },
+    {
+      "name": "Challenger Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/challenger-speakerguy/"
+    },
+    {
+      "name": "Golden Commando Large Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/golden-commando-large-cameraguy/"
+    },
+    {
+      "name": "67 MANGO BLUD",
+      "source": "https://rowikis.com/skibi-defense/towers/67-mango-blud/"
+    },
+    {
+      "name": "Incompetent Team",
+      "source": "https://rowikis.com/skibi-defense/towers/incompetent-team/"
+    },
+    {
+      "name": "Jo",
+      "source": "https://rowikis.com/skibi-defense/towers/jo/"
+    },
+    {
+      "name": "secondlifelord",
+      "source": "https://rowikis.com/skibi-defense/towers/secondlifelord/"
+    },
+    {
+      "name": "Lore Accurate Titan Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/lore-accurate-titan-speakerguy/"
+    },
+    {
+      "name": "Lore Accurate Upgraded Titan Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/lore-accurate-upgraded-titan-speakerguy/"
+    },
+    {
+      "name": "Lore Accurate G-Toilet 3.0",
+      "source": "https://rowikis.com/skibi-defense/towers/lore-accurate-g-toilet-3-0/"
+    },
+    {
+      "name": "Lore Walker Camera Reaper",
+      "source": "https://rowikis.com/skibi-defense/towers/lore-walker-camera-reaper/"
+    },
+    {
+      "name": "Herobrine",
+      "source": "https://rowikis.com/skibi-defense/towers/herobrine/"
+    },
+    {
+      "name": "war",
+      "source": "https://rowikis.com/skibi-defense/towers/war/"
+    },
+    {
+      "name": "gato",
+      "source": "https://rowikis.com/skibi-defense/towers/gato/"
+    },
+    {
+      "name": "Upgraded dj guy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-dj-guy/"
+    },
+    {
+      "name": "FULLY AWAKENED CREATOR",
+      "source": "https://rowikis.com/skibi-defense/towers/fully-awakened-creator/"
+    },
+    {
+      "name": "its never lupus (tester tower) (REPLACED)",
+      "source": "https://rowikis.com/skibi-defense/towers/its-never-lupus-tester-tower-replaced/"
+    },
+    {
+      "name": "Sledge Queen",
+      "source": "https://rowikis.com/skibi-defense/towers/sledge-queen/"
+    },
+    {
+      "name": "Defmetre tower",
+      "source": "https://rowikis.com/skibi-defense/towers/defmetre-tower/"
+    },
+    {
+      "name": "Engenieergaming",
+      "source": "https://rowikis.com/skibi-defense/towers/engenieergaming/"
+    },
+    {
+      "name": "TRUE 05 TV MAN",
+      "source": "https://rowikis.com/skibi-defense/towers/true-05-tv-man/"
+    },
+    {
+      "name": "isagi yoichi",
+      "source": "https://rowikis.com/skibi-defense/towers/isagi-yoichi/"
+    },
+    {
+      "name": "fazbiden",
+      "source": "https://rowikis.com/skibi-defense/towers/fazbiden/"
+    },
+    {
+      "name": "Astro Upgraded Titan Tv Man",
+      "source": "https://rowikis.com/skibi-defense/towers/astro-upgraded-titan-tv-man/"
+    },
+    {
+      "name": "Itan",
+      "source": "https://rowikis.com/skibi-defense/towers/itan/"
+    },
+    {
+      "name": "Koree",
+      "source": "https://rowikis.com/skibi-defense/towers/koree/"
+    },
+    {
+      "name": "Ertx",
+      "source": "https://rowikis.com/skibi-defense/towers/ertx/"
+    },
+    {
+      "name": "Frog",
+      "source": "https://rowikis.com/skibi-defense/towers/frog/"
+    },
+    {
+      "name": "Cade",
+      "source": "https://rowikis.com/skibi-defense/towers/cade/"
+    },
+    {
+      "name": "Digi",
+      "source": "https://rowikis.com/skibi-defense/towers/digi/"
+    },
+    {
+      "name": "OG Upgraded Colossal Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/og-upgraded-colossal-cameraguy/"
+    },
+    {
+      "name": "OG Upgraded Colossal Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/og-upgraded-colossal-speakerguy/"
+    },
+    {
+      "name": "Birthday Clock Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/birthday-clock-girl/"
+    },
+    {
+      "name": "Birthday Cake",
+      "source": "https://rowikis.com/skibi-defense/towers/birthday-cake/"
+    },
+    {
+      "name": "Birthday Boy Gman 4.5",
+      "source": "https://rowikis.com/skibi-defense/towers/birthday-boy-gman-4-5/"
+    },
+    {
+      "name": "Upgraded Birthday Polycephaly",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-birthday-polycephaly/"
+    },
+    {
+      "name": "N",
+      "source": "https://rowikis.com/skibi-defense/towers/n/"
+    },
+    {
+      "name": "Overseer Traitor",
+      "source": "https://rowikis.com/skibi-defense/towers/overseer-traitor/"
+    },
+    {
+      "name": "Pumpkin Mech Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/pumpkin-mech-toilet/"
+    },
+    {
+      "name": "Large Camera Reaper",
+      "source": "https://rowikis.com/skibi-defense/towers/large-camera-reaper/"
+    },
+    {
+      "name": "The Knight",
+      "source": "https://rowikis.com/skibi-defense/towers/the-knight/"
+    },
+    {
+      "name": "Protagonist Cameraman",
+      "source": "https://rowikis.com/skibi-defense/towers/protagonist-cameraman/"
+    },
+    {
+      "name": "Slender Tv",
+      "source": "https://rowikis.com/skibi-defense/towers/slender-tv/"
+    },
+    {
+      "name": "Upgraded Reaper Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-reaper-cameraguy/"
+    },
+    {
+      "name": "Revived Reaper Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/revived-reaper-cameraguy/"
+    },
+    {
+      "name": "Graveyard",
+      "source": "https://rowikis.com/skibi-defense/towers/graveyard/"
+    },
+    {
+      "name": "Reaper Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/reaper-cameraguy/"
+    },
+    {
+      "name": "Cursed TV",
+      "source": "https://rowikis.com/skibi-defense/towers/cursed-tv/"
+    },
+    {
+      "name": "Ten Speakers",
+      "source": "https://rowikis.com/skibi-defense/towers/ten-speakers/"
+    },
+    {
+      "name": "Volcanic Speaker",
+      "source": "https://rowikis.com/skibi-defense/towers/volcanic-speaker/"
+    },
+    {
+      "name": "Patchface Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/patchface-speakerguy/"
+    },
+    {
+      "name": "TV Vessel",
+      "source": "https://rowikis.com/skibi-defense/towers/tv-vessel/"
+    },
+    {
+      "name": "Temple",
+      "source": "https://rowikis.com/skibi-defense/towers/temple/"
+    },
+    {
+      "name": "The Dragon",
+      "source": "https://rowikis.com/skibi-defense/towers/the-dragon/"
+    },
+    {
+      "name": "Lunar TV Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/lunar-tv-girl/"
+    },
+    {
+      "name": "Super Idol Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/super-idol-speakerguy/"
+    },
+    {
+      "name": "Snowglobe",
+      "source": "https://rowikis.com/skibi-defense/towers/snowglobe/"
+    },
+    {
+      "name": "Christmas Tree",
+      "source": "https://rowikis.com/skibi-defense/towers/christmas-tree/"
+    },
+    {
+      "name": "Krampus Tv",
+      "source": "https://rowikis.com/skibi-defense/towers/krampus-tv/"
+    },
+    {
+      "name": "Santa Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/santa-cameraguy/"
+    },
+    {
+      "name": "Ice Breaker Cameragirl",
+      "source": "https://rowikis.com/skibi-defense/towers/ice-breaker-cameragirl/"
+    },
+    {
+      "name": "Jolly Speakergirl",
+      "source": "https://rowikis.com/skibi-defense/towers/jolly-speakergirl/"
+    },
+    {
+      "name": "Colossal Clown Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-clown-cameraguy/"
+    },
+    {
+      "name": "Party-Leader Astro Detainer Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/party-leader-astro-detainer-toilet/"
+    },
+    {
+      "name": "Colossal Birthday Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-birthday-speakerguy/"
+    },
+    {
+      "name": "Birthday Large Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/birthday-large-cameraguy/"
+    },
+    {
+      "name": "Princess TV Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/princess-tv-girl/"
+    },
+    {
+      "name": "DJ Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/dj-speakerguy/"
+    },
+    {
+      "name": "Uncle Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/uncle-cameraguy/"
+    },
+    {
+      "name": "Leprechaun Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/leprechaun-cameraguy/"
+    },
+    {
+      "name": "Upgraded Leprechaun Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-leprechaun-cameraguy/"
+    },
+    {
+      "name": "Pure Upgraded Camera Colossal",
+      "source": "https://rowikis.com/skibi-defense/towers/pure-upgraded-camera-colossal/"
+    },
+    {
+      "name": "Pure Colossal Camera",
+      "source": "https://rowikis.com/skibi-defense/towers/pure-colossal-camera/"
+    },
+    {
+      "name": "Cupid Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/cupid-cameraguy/"
+    },
+    {
+      "name": "Pure TV Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/pure-tv-girl/"
+    },
+    {
+      "name": "Colossal Camera GIrl",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-camera-girl/"
+    },
+    {
+      "name": "Colossal Speaker Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/colossal-speaker-girl/"
+    },
+    {
+      "name": "The Strongest Hero",
+      "source": "https://rowikis.com/skibi-defense/towers/the-strongest-hero/"
+    },
+    {
+      "name": "IX Large Minigunner Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/ix-large-minigunner-cameraguy/"
+    },
+    {
+      "name": "Big",
+      "source": "https://rowikis.com/skibi-defense/towers/big/"
+    },
+    {
+      "name": "Tole Tole Cube",
+      "source": "https://rowikis.com/skibi-defense/towers/tole-tole-cube/"
+    },
+    {
+      "name": "MASSIVE",
+      "source": "https://rowikis.com/skibi-defense/towers/massive/"
+    },
+    {
+      "name": "Guardian",
+      "source": "https://rowikis.com/skibi-defense/towers/guardian/"
+    },
+    {
+      "name": "REAL Upgraded Colossal Clock",
+      "source": "https://rowikis.com/skibi-defense/towers/real-upgraded-colossal-clock/"
+    },
+    {
+      "name": "REAL Upgraded Colossal Pencilwoman",
+      "source": "https://rowikis.com/skibi-defense/towers/real-upgraded-colossal-pencilwoman/"
+    },
+    {
+      "name": "REAL Upgraded Colossal Drill Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/real-upgraded-colossal-drill-guy/"
+    },
+    {
+      "name": "REAL Colossal Drill Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/real-colossal-drill-guy/"
+    },
+    {
+      "name": "REAL Colossal Pencil Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/real-colossal-pencil-girl/"
+    },
+    {
+      "name": "REAL Drill Man",
+      "source": "https://rowikis.com/skibi-defense/towers/real-drill-man/"
+    },
+    {
+      "name": "Egg Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/egg-toilet/"
+    },
+    {
+      "name": "Astro Duchess",
+      "source": "https://rowikis.com/skibi-defense/towers/astro-duchess/"
+    },
+    {
+      "name": "TRI COLOSSAL",
+      "source": "https://rowikis.com/skibi-defense/towers/tri-colossal/"
+    },
+    {
+      "name": "ULTRA DRILL",
+      "source": "https://rowikis.com/skibi-defense/towers/ultra-drill/"
+    },
+    {
+      "name": "Greg",
+      "source": "https://rowikis.com/skibi-defense/towers/greg/"
+    },
+    {
+      "name": "Upgraded TV Woman",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-tv-woman/"
+    },
+    {
+      "name": "Upgraded Colossal Speaker Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-colossal-speaker-girl/"
+    },
+    {
+      "name": "Rocket Toilet",
+      "source": "https://rowikis.com/skibi-defense/towers/rocket-toilet/"
+    },
+    {
+      "name": "Speakers Large TV Guy",
+      "source": "https://rowikis.com/skibi-defense/towers/speakers-large-tv-guy/"
+    },
+    {
+      "name": "Upgraded Knife Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-knife-speakerguy/"
+    },
+    {
+      "name": "Upgraded Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-speakerguy/"
+    },
+    {
+      "name": "Upgraded DJ Girl",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-dj-girl/"
+    },
+    {
+      "name": "Spear Dark Speakerguy",
+      "source": "https://rowikis.com/skibi-defense/towers/spear-dark-speakerguy/"
+    },
+    {
+      "name": "Upgraded Large Laser Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-large-laser-cameraguy/"
+    },
+    {
+      "name": "Upgraded Mech Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-mech-cameraguy/"
+    },
+    {
+      "name": "Large Rocket Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/large-rocket-cameraguy/"
+    },
+    {
+      "name": "Daily Rewards (UPDATE 3)",
+      "source": "https://rowikis.com/skibi-defense/towers/daily-rewards-update-3/"
+    },
+    {
+      "name": "Baton Large Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/baton-large-cameraguy/"
+    },
+    {
+      "name": "Laser Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/laser-cameraguy/"
+    },
+    {
+      "name": "Upgraded Cameragirl",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-cameragirl/"
+    },
+    {
+      "name": "Upgraded Cameraguy",
+      "source": "https://rowikis.com/skibi-defense/towers/upgraded-cameraguy/"
+    },
+    {
+      "name": ",Place 95.5k \u00b7 limit 1",
+      "source": "https://rowikis.com/skibi-defense/towers/card/"
+    }
+  ],
+  "warnings": [
+    "Community reference; may include removed, event, or unobtainable units. Check the linked page before choosing a goal."
+  ]
+}
