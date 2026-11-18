@@ -1,18 +1,20 @@
-# Verification — 16 November 2026
+# Verification — 18 November 2026
 
 Passed:
-- Existing game/goal/progress saves still load after the scanner update.
-- Skibi Defense catalog loads 280 names and source links.
-- Live Python research against the public tower page returns 280 unique entries.
-- Real browser OCR on a synthetic image reads Camera Fighter and Ultimate CameraGuy and matches both to the catalog (94 OCR confidence).
-- Matches stay unknown until confirmed. Confirming Camera Fighter as owned and tracking it creates a completed 1/1 goal that survives reload.
-- Name matching tests cover overlapping names, word boundaries, empty input and short ambiguous names.
-- JavaScript and Python syntax checks.
+- Eight Node regression tests: catalog refresh preserves confirmations across renamed entries; untrusted catalog entries cannot set owned status; malformed imported scan data is normalized; overlapping unit-name matching; late catalog/research replies do not overwrite closed sessions; a late screen stream is stopped after close; cancellation prevents stale OCR writes; automatic scanning does not overlap OCR jobs.
+- Real browser OCR on a synthetic image matched Camera Fighter and Ultimate CameraGuy.
+- Existing v0.2 saves loaded in v0.3. Confirmed ownership and previous goals survived refresh.
+- Missing item -> tracked goal remained unfinished after reload. Duplicate tracking is disabled.
+- Quality threshold and ownership persisted after reload; missing-item filter worked.
+- F3 closed the scanner and tracker.
+- Public Skibi Defense source refreshed successfully: 280 entries on 18 November 2026.
+- Local research HTTP endpoint returned 280 entries for the allowed UQT origin and rejected unrelated origins and invalid Host headers.
+- JavaScript syntax checks.
 
 Not verified end-to-end:
-- Capture of a real Roblox window, real inventory OCR accuracy, or Windows behavior.
-- Roblox launch: blocked by the automated test browser; the standard deep-link request is implemented.
-- Browser-to-helper local-network permission on Windows.
-- General wiki discovery across arbitrary games or complete game coverage.
+- Real Roblox inventory OCR, OS capture permission and Windows behavior.
+- Roblox automatic launch: the automated browser blocked its deep-link navigation in the previous test.
+- The in-app browser screen-sharing picker cannot be operated by the test tools. The pending test was ended by closing/reloading the preview.
+- General wiki discovery across arbitrary games, exhaustive game coverage, or recommendations.
 
-The OCR test uses synthetic inventory text, not a claim of testing in a live game.
+The OCR fixture is synthetic inventory text; this is not a claim of testing against a live Roblox account.

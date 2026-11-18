@@ -1,13 +1,4 @@
 {
-  "game": "Skibi Defense",
-  "placeId": "14279693118",
-  "checkedAt": "2026-11-16T20:07:32.165374+00:00",
-  "sources": [
-    {
-      "url": "https://rowikis.com/skibi-defense/towers/",
-      "title": "Skibi Defense tower reference"
-    }
-  ],
   "items": [
     {
       "name": "Chronolord Large Clockman",
@@ -1130,7 +1121,16 @@
       "source": "https://rowikis.com/skibi-defense/towers/card/"
     }
   ],
+  "sources": [
+    {
+      "url": "https://rowikis.com/skibi-defense/towers/",
+      "title": "Skibi Defense"
+    }
+  ],
   "warnings": [
     "Community reference; may include removed, event, or unobtainable units. Check the linked page before choosing a goal."
-  ]
+  ],
+  "checkedAt": "2026-11-18T15:30:57.783043+00:00",
+  "game": "Skibi Defense",
+  "placeId": "14279693118"
 }
